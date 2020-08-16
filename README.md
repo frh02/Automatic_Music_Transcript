@@ -25,5 +25,8 @@
 ## Results 
 
 ![Alt Text](https://github.com/frh02/Automatic_Music_Transcript/blob/master/cqt_plot.png)
+CQT plot for sweet child of mine intro. </br>
 ![Alt Text](https://github.com/frh02/Automatic_Music_Transcript/blob/master/Musical_Notes.JPG)
+
+Final musical note output for midi file. </br>
 
