@@ -30,6 +30,7 @@ CQT plot for sweet child of mine intro. </br>
 
 Final musical note output for midi file. </br>
 
+* The output of the **.wav** file is given in the <code>**sweet_child_music21.mid**</code> file. </br>
 # Reference 
 
 * Mounting google drive --<code>https://www.marktechpost.com/2019/06/07/how-to-connect-google-colab-with-google-drive/</code>.</br>
