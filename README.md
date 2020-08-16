@@ -30,3 +30,13 @@ CQT plot for sweet child of mine intro. </br>
 
 Final musical note output for midi file. </br>
 
+# Reference 
+
+* Mounting google drive --<code>https://www.marktechpost.com/2019/06/07/how-to-connect-google-colab-with-google-drive/</code>.</br>
+* noise reduction --<code>https://pypi.org/project/noisereduce/</code>.</br>
+* Librosa --<code>https://timsainburg.com/noise-reduction-python.html</code>.</br>
+* Musescore --<code>https://musescore.org/en</code>.</br>
+* music21 --<code>http://web.mit.edu/music21/</code>.</br>
+
+
+
