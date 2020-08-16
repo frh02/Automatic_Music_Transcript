@@ -19,9 +19,11 @@
     * Using *noisereduce* library to de noise the audio signal if needed.</br>
     * Using **Librosa** library, we calculate the pitch and tempo.</br>
     * with the help of **music21** and **MIDIUtil** library, we can plot the UI for musical notes.</br>
-    * Now we convert the audio file into <code>**.midi**</code> format and then download it loacally or in the google collab workspace.</br>
-    * **Musescore** helps us to visaulize the musical note sheet, where we have to open the <code>.midi</code> file and observe the transcript. </br>
+    * Now we convert the audio file into <code>**.mid**</code> format and then download it loacally or in the google collab workspace.</br>
+    * **Musescore** helps us to visaulize the musical note sheet, where we have to open the <code>.mid</code> file and observe the transcript. </br>
 
 ## Results 
 
+![Alt Text](https://github.com/frh02/Automatic_Music_Transcript/blob/master/cqt_plot.png)
+![Alt Text](https://github.com/frh02/Automatic_Music_Transcript/blob/master/Musical_Notes.JPG)
 
