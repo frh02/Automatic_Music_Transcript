@@ -15,10 +15,13 @@
 * Now we need to mount the google drive into our colab file using <code>from google.colab import drive</code> and <code>drive.mount(‘/content/gdrive’)</code>.</br>
 * Wherever we need to add path to audio files use the path of the saved google drive audio files and run the cells of the collab file.</br>
 * The sections in the .ipynb are used to:</br>
-    * Generating the .wav file and plotting the audio file.</br>
-    * Using noisereduce library to de noise the audio signal if needed.</br>
-    * Using Librosa library, we calculate the pitch and tempo.</br>
-    * with the help of music21 and MIDIUtil library, we can plot the UI for musical notes.</br>
-    * Now we convert the audio file into .midi format and then download it loacally or in the google collab workspace.</br>
-    * Musescore helps us to visaulize the musical note sheet, where we have to open the .midi file and observe the transcript. </br>
+    * Generating the **.wav** file and plotting the audio file.</br>
+    * Using *noisereduce* library to de noise the audio signal if needed.</br>
+    * Using **Librosa** library, we calculate the pitch and tempo.</br>
+    * with the help of **music21** and **MIDIUtil** library, we can plot the UI for musical notes.</br>
+    * Now we convert the audio file into <code>**.midi**</code> format and then download it loacally or in the google collab workspace.</br>
+    * **Musescore** helps us to visaulize the musical note sheet, where we have to open the <code>.midi</code> file and observe the transcript. </br>
+
+## Results 
+
 
