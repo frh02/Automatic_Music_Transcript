@@ -11,7 +11,7 @@
 * After installing the necessary libraries and software, open the <code>Music_automatic_transcription.ipynb</code> file in google colab.</br>
 * The file <code>mp3_wav_conversion.py</code> is used to convert the **mp3** file into **.wav** file.</br>
 * **audio_files** file contains the demo used for this project but we can use our own audio file.</br>
-* To load the audio file saved in **audio_files**, we need to upload both the test files into google drive.</br>
+* To load the audio file saved in **audio_files**, we need to upload both the files in <code>**audio_files**</code> folder into google drive.</br>
 * Now we need to mount the google drive into our colab file using <code>from google.colab import drive</code> and <code>drive.mount(‘/content/gdrive’)</code>.</br>
 * Wherever we need to add path to audio files use the path of the saved google drive audio files and run the cells of the collab file.</br>
 * The sections in the .ipynb are used to:</br>
